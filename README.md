@@ -5,18 +5,17 @@
 ###### ||Resources: [DF](#), [Messenger Docs](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
 
-Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the HackZurich 2020: https://devpost.com/software/toby-bot
+Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the AI Challenge at HackZurich 2020: https://devpost.com/software/toby-bot
 
 #### Let's start!
 
 > Step 1:
 
-step 1 - go  https://dialogflow.cloud.google.com/#/login
-add default intent - responses an facebook messenger at dialog flow
+Go to [DF](https://dialogflow.cloud.google.com/#/login)
 
 > Step 2:
 
-step 2 - create new agent - create new project 
+Create new agent and import our project: 🤖
 
 <br>
 <div align ="center">
@@ -25,7 +24,7 @@ step 2 - create new agent - create new project
 
 > Step 3:
 
-step 3 - go to integrations
+Go to DF integrations:
 
 <br>
 <div align ="center">
@@ -35,11 +34,11 @@ step 3 - go to integrations
 
 > Step 4:
 
-step 4 - turn on facebook messenger 
+Turn on the Facebook Messenger service 
 
 > Step 5:
 
-step 5 - Now go to developers.facebook.com
+Now go to https://developers.facebook.com
 
 <br>
 <div align ="center">
@@ -48,14 +47,12 @@ step 5 - Now go to developers.facebook.com
 
 > Step 6
 
-: step 6 - create an app > chose manage bussiness integration > add display name 
-Add purpose 
-select ypu bussiness manager account 
-This is going to create your app id
+Create an app on FB console > chose manage bussiness integration > add display name 
+Add purpose > Select ypu bussiness manager account > And this will create your app id
 
 > Step 7: 
 
-step 7 - select Messenger configuration
+Select the Messenger configuration (set up):
 
 <br>
 <div align ="center">
@@ -63,52 +60,43 @@ step 7 - select Messenger configuration
 </div>
 
 
-> Step 8: 
+> Step 8: 🤖
 
-Step 8 - create or add a fan page for toby bot 
+Create or add a Fan page for Toby Bot 
 
 <br>
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/1G28uDOVJRjlRVU3zZ/giphy.gif">
 </div>
 
-
 > Step 9
 
-: step 9 - generate access token 
-get access token to dialogflow 
- - verify token -(hello worl in our case) 
-and copy back that verify url
-Click on "start"
+Generate access token > get this access token to dialogflow:  
+> Then create a verify token in DF ("helloworld" in our case),
+> Now copy the Callback url provided by DF,
+> And Finally, Click on "start bot" ✅
 
 > Step 10 
 
-:  step 10 - add Callback URl at facebook for develoeprs 
-paste verify token 
-at facebook console 
-
-> Step 11 
-
-: step 11 come to facebook developer console - add callback url 
-verify tocken we created on dialogflow - click on verify and safe 
+Add the Callback URl from DF to Facebook for Developers console 
+> Also copy/paste the verify token created on DF to Facebook Console 
+> Click on verify and save ✅
 
 > Step 11
 
- step 11 - add subscriptions to the webhooks select messeges 
+In the FB Messenger set up, add the following subscriptions to the webhooks (messeges):
+
 ```
-messages
-messaging_postbacks
-message_deliveries
-message_reads
+- messages
+- messaging_postbacks
+- message_deliveries
+- message_reads
 ```
-Click on Save it
+And Click on Save it ✅
 
 > Step 12 
 
-step 12 
-- try your bot inegrations
-Go to your fun page and sent a message 
-Get sterted button
+Try your bot inegration> Go to your fan page > And click on the Get started button 
 
 <br>
 <div align ="center">
@@ -116,31 +104,29 @@ Get sterted button
 </div>
 
 
-
 > Step 13
 
-: step 13 - at facebook developer console go to basic settings and add your app domain and 
-privacy policy url , your terms of service URL
+At Facebook developer console go to basic settings and add:
+- your app domain 
+- privacy policy url , 
+- your terms of service URL,
+- Add you App icon 
+- Chose an category > Messenger bot for a bussines 
+- Finally add a platform > website > add your website URL and 
+- save changes ✅
 
-add also an icon 
-chose an category 
-nessenger bot for a bussines 
-finally add a platform > website > add your website URL and save changes 
-once you do it -
+> Step 14: App Review
 
-> Step 14
-
- - go to app review on requests 
-Click on request permissions and features 
-on pages_messing > Request advanced access 
-
-Go back to Requests and give an folloving information - complete App verification 
+Go to app review > Click on request permissions and features 
+Now go to pages_messaging > Request advanced access 
+> Go back to Requests and provide the folloving information - Complete App verification 
 
 Provide detailed step-by-step instructions on how a reviewer can test your integration and how you are using the requested permissions or features. Include any testing credentials required to access your integration.
 
 > Step 15
 
  Edit your request permission features 
+
 ```
 Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. 
 ```
@@ -150,8 +136,8 @@ Select yout page
 ```Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
 ```
 
-Click if approved I agree... and accept terms 
+Click > If approved I agree... and accept terms! ✅ 
 
 > Step 16
 
-Submit for review so your bot could be a public!
+🤖 Submit your for Bot for the App Review and to be Available for everyone. 
