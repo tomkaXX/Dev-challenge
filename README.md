@@ -58,7 +58,9 @@ step 6 - create an app > chose manage bussiness integration > add display name
 Add purpose 
 select ypu bussiness manager account 
 This is going to create your app id
-
+step 7 - select facebook product on setup
+Step 8 - create a fun page on facebook 
+toby bot 
 
 
 
