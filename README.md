@@ -1,5 +1,5 @@
 # 🤖 [AI Bots Academy](#)  
-### Build your bot using NLP and integrate it with Messenger!
+### Build your bot using NLP and integrate it with Facebook  Messenger!
 ### 🏆 Toby Bot - Winners of the AI challenge at HackZurich 2020 
 ###### || Developers: Tamara Koliada || Developer Circles Lead from Kiev ||
 ###### ||Resources: [DF](#), [Messenger Docs](https://wit.ai/terms#3), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
@@ -47,7 +47,9 @@ Utterance
 - [Wit.ai](https://wit.ai/),
 - [Wit.ai Terms of Use](https://wit.ai/terms#3),
 - [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)
+- [Quick Start Tutorial](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/),
 
+#### Let's start!
 
 > Step 1:
 
