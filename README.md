@@ -115,6 +115,8 @@ Provide a detailed step-by-step video walkthrough of how your app will use this 
 click if approved I agree... and accept terms 
 
 step 16 
+submiyt for review so your bot could be a public 
+all the steps 
 
 
 
