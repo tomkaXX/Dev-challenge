@@ -49,30 +49,65 @@ Utterance
 - [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)
 
 
+> Step 1:
+
 step 1 - go  https://dialogflow.cloud.google.com/#/login
 add default intent - responses an facebook messenger at dialog flow
+
+> Step 2:
+
 step 2 - create new agent - create new project 
+
+> Step 3:
+
 step 3 - go to integrations
+
+> Step 4:
+
 step 4 - turn on facebook messenger 
+
+> Step 5:
+
 step 5 - nice go to developers.facebook.com
-step 6 - create an app > chose manage bussiness integration > add display name 
+
+> Step 6
+
+: step 6 - create an app > chose manage bussiness integration > add display name 
 Add purpose 
 select ypu bussiness manager account 
 This is going to create your app id
+
+> Step 7: 
+
 step 7 - select facebook product on setup
+
+> Step 8: 
+
 Step 8 - create a fun page ( or add a page) on facebook 
 for toby bot 
-step 9 - generate access token 
+
+> Step 9
+
+: step 9 - generate access token 
 get access token to dialogflow 
  - verify token -(hello worl in our case) 
 and copy back that verify url
 Click on "start"
-step 10 - add Callback URl at facebook for develoeprs 
+
+> Step 10 
+
+:  step 10 - add Callback URl at facebook for develoeprs 
 paste verify token 
 at facebook console 
-step 11 come to facebook developer console - add callback url 
+
+> Step 11 
+
+: step 11 come to facebook developer console - add callback url 
 verify tocken we created on dialogflow - click on verify and safe 
-step 11 - add subscriptions to the webhooks select messeges 
+
+> Step 11
+
+ step 11 - add subscriptions to the webhooks select messeges 
 
 messages
 
@@ -83,10 +118,11 @@ message_deliveries
 message_reads
 
 Save it and 
+> Step 12 
 step 12 - try your bot inegrations
 Go to your fun page and sent a message 
 Get sterted button
-step 13 - at facebook developer console go to basic settings and add your app domain and 
+> Step 13: step 13 - at facebook developer console go to basic settings and add your app domain and 
 privacy policy url , your terms of service URL
 
 add also an icon 
@@ -94,7 +130,8 @@ chose an category
 nessenger bot for a bussines 
 finally add a platform > website > add your website URL and save changes 
 once you do it -
-step 14 - go to app review on requests 
+> Step 14
+ - go to app review on requests 
 click on request permissions and features 
 on pages_messing > Request advanced access 
 
@@ -105,7 +142,8 @@ Provide detailed step-by-step instructions on how a reviewer can test your integ
 Write a step by step guide 
 Take a pic of your shopping 
 get reworded 
-step 15 - edit your request permission features 
+> Step 15
+ edit your request permission features 
 Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. [?]
 
 
@@ -114,7 +152,7 @@ Provide a detailed step-by-step video walkthrough of how your app will use this 
 
 click if approved I agree... and accept terms 
 
-step 16 
+> Step 16
 submiyt for review so your bot could be a public 
 all the steps 
 
