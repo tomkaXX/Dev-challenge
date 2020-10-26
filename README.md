@@ -63,11 +63,30 @@ Step 8 - create a fun page ( or add a page) on facebook
 for toby bot 
 step 9 - generate access token 
 get access token to dialogflow 
- - verify token hello world 
+ - verify token -(hello worl in our case) 
 and copy back that verify url
+Click on "start"
 step 10 - add Callback URl at facebook for develoeprs 
 paste verify token 
 at facebook console 
+step 11 come to facebook developer console - add callback url 
+verify tocken we created on dialogflow - click on verify and safe 
+step 11 - add subscriptions to the webhooks select messeges 
+
+messages
+
+messaging_postbacks
+
+message_deliveries
+
+message_reads
+
+Save it and 
+step 12 - try your bot inegrations
+Go to your fun page and sent a message 
+Get sterted button
+
+
 
 
 
