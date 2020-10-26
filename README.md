@@ -131,34 +131,27 @@ once you do it -
 > Step 14
 
  - go to app review on requests 
-click on request permissions and features 
+Click on request permissions and features 
 on pages_messing > Request advanced access 
 
-go back to Requests and give an folloving information - complete App verification 
+Go back to Requests and give an folloving information - complete App verification 
 
 Provide detailed step-by-step instructions on how a reviewer can test your integration and how you are using the requested permissions or features. Include any testing credentials required to access your integration.
 
-Write a step by step guide 
-Take a pic of your shopping 
-get reworded 
-
 > Step 15
 
- edit your request permission features 
+ Edit your request permission features 
 ```
 Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. 
 ```
 
 
-select yout page 
+Select yout page 
 ```Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
 ```
 
-click if approved I agree... and accept terms 
+Click if approved I agree... and accept terms 
 
 > Step 16
 
-submiyt for review so your bot could be a public 
-all the steps 
-
-If approved, I agree that any data I receive through pages_messaging will be used in accordance with the allowed usage.
+Submit for review so your bot could be a public!
