@@ -86,6 +86,39 @@ Save it and
 step 12 - try your bot inegrations
 Go to your fun page and sent a message 
 Get sterted button
+step 13 - at facebook developer console go to basic settings and add your app domain and 
+privacy policy url , your terms of service URL
+
+add also an icon 
+chose an category 
+nessenger bot for a bussines 
+finally add a platform > website > add your website URL and save changes 
+once you do it -
+step 14 - go to app review on requests 
+click on request permissions and features 
+on pages_messing > Request advanced access 
+
+go back to Requests and give an folloving information - complete App verification 
+
+Provide detailed step-by-step instructions on how a reviewer can test your integration and how you are using the requested permissions or features. Include any testing credentials required to access your integration.
+
+Write a step by step guide 
+Take a pic of your shopping 
+get reworded 
+step 15 - edit your request permission features 
+Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. [?]
+
+
+select yout page 
+Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
+
+click if approved I agree... and accept terms 
+
+step 16 
+
+
+
+
 
 
 
