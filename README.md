@@ -1,12 +1,13 @@
 # 🤖 [AI Bots Academy](#)  
-### Getting started with Wit.ai open-source framework for building Apps & Bots 
-###### Developers: Tamara K, Jorge G and Leo C
-###### ||Resources: [Wit.ai](https://wit.ai/), [Wit.ai Terms of Use](https://wit.ai/terms#3), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
+### Build your bot using NLP and integrate it with Messenger!
+### Toby Bot Tutorial  
+###### || Developers: Tamara Koliada || Developer Circles Lead from Kiev ||
+###### ||Resources: [DF](#), [Messenger Docs](https://wit.ai/terms#3), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
 
-Wit.ai is an open source chatbot framework to build bots with open source code and also open apps. That way, other developers can fork any app and don’t need to start from scratch when building their bot.
+Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the HackZurich 2020: https://devpost.com/software/toby-bot
 
-[![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/6D3bOMDwhJA)
+[![Pitch](https://img.youtube.com/vi/45elKi5Vn0k/0.jpg)](https://youtu.be/45elKi5Vn0k)
 
 #### With this repo you can get started with Wit.ai for Developers and start creating virtual assistants. 
 
