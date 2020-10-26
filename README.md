@@ -118,6 +118,8 @@ step 16
 submiyt for review so your bot could be a public 
 all the steps 
 
+If approved, I agree that any data I receive through pages_messaging will be used in accordance with the allowed usage.
+
 
 
 
