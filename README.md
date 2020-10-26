@@ -56,6 +56,14 @@ Utterance
 step 1 - go  https://dialogflow.cloud.google.com/#/login
 add default intent - responses an facebook messenger at dialog flow
 
+
+<div align ="center">
+<img width="100" height="100" src="https://techolopia.com/wp-content/uploads/2020/10/profile.jpg">
+<br>
+</div>
+<br>
+
+
 > Step 2:
 
 step 2 - create new agent - create new project 
