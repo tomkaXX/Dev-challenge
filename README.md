@@ -56,20 +56,24 @@ Utterance
 step 1 - go  https://dialogflow.cloud.google.com/#/login
 add default intent - responses an facebook messenger at dialog flow
 
+> Step 2:
+
+step 2 - create new agent - create new project 
 
 <br>
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/2aHg9z5shHnulTX5eN/giphy.gif">
 </div>
 
-
-> Step 2:
-
-step 2 - create new agent - create new project 
-
 > Step 3:
 
 step 3 - go to integrations
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/Lb4DbVjbhNVbOMY5lb/giphy.gif">
+</div>
+
 
 > Step 4:
 
@@ -77,7 +81,12 @@ step 4 - turn on facebook messenger
 
 > Step 5:
 
-step 5 - nice go to developers.facebook.com
+step 5 - Now go to developers.facebook.com
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/putDpToOBrGEpAXMMZ/giphy.gif">
+</div>
 
 > Step 6
 
@@ -88,12 +97,23 @@ This is going to create your app id
 
 > Step 7: 
 
-step 7 - select facebook product on setup
+step 7 - select Messenger configuration
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/MHiWZK6IoVYsLIQPSb/giphy.gif">
+</div>
+
 
 > Step 8: 
 
-Step 8 - create a fun page ( or add a page) on facebook 
-for toby bot 
+Step 8 - create or add a fan page for toby bot 
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/1G28uDOVJRjlRVU3zZ/giphy.gif">
+</div>
+
 
 > Step 9
 
@@ -123,7 +143,7 @@ messaging_postbacks
 message_deliveries
 message_reads
 ```
-Save it and 
+Click on Save it
 
 > Step 12 
 
@@ -131,6 +151,13 @@ step 12
 - try your bot inegrations
 Go to your fun page and sent a message 
 Get sterted button
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/DOA84CQhuVx5HSV4X9/giphy.gif">
+</div>
+
+
 
 > Step 13
 
