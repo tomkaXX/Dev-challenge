@@ -50,6 +50,7 @@ Utterance
 
 
 step 1 - go  https://dialogflow.cloud.google.com/#/login
+add default intent - responses an facebook messenger at dialog flow
 step 2 - create new agent - create new project 
 step 3 - go to integrations
 step 4 - turn on facebook messenger 
