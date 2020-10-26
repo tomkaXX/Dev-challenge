@@ -110,21 +110,24 @@ verify tocken we created on dialogflow - click on verify and safe
 > Step 11
 
  step 11 - add subscriptions to the webhooks select messeges 
-
+```
 messages
-
 messaging_postbacks
-
 message_deliveries
-
 message_reads
-
+```
 Save it and 
+
 > Step 12 
-step 12 - try your bot inegrations
+
+step 12 
+- try your bot inegrations
 Go to your fun page and sent a message 
 Get sterted button
-> Step 13: step 13 - at facebook developer console go to basic settings and add your app domain and 
+
+> Step 13
+
+: step 13 - at facebook developer console go to basic settings and add your app domain and 
 privacy policy url , your terms of service URL
 
 add also an icon 
@@ -132,7 +135,9 @@ chose an category
 nessenger bot for a bussines 
 finally add a platform > website > add your website URL and save changes 
 once you do it -
+
 > Step 14
+
  - go to app review on requests 
 click on request permissions and features 
 on pages_messing > Request advanced access 
@@ -144,17 +149,23 @@ Provide detailed step-by-step instructions on how a reviewer can test your integ
 Write a step by step guide 
 Take a pic of your shopping 
 get reworded 
+
 > Step 15
+
  edit your request permission features 
-Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. [?]
+```
+Please provide a detailed description of how your app uses the permission or feature requested, how it adds value for a person using your app, and why it's necessary for app functionality. 
+```
 
 
 select yout page 
-Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
+```Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
+```
 
 click if approved I agree... and accept terms 
 
 > Step 16
+
 submiyt for review so your bot could be a public 
 all the steps 
 
