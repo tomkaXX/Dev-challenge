@@ -59,8 +59,17 @@ Add purpose
 select ypu bussiness manager account 
 This is going to create your app id
 step 7 - select facebook product on setup
-Step 8 - create a fun page on facebook 
-toby bot 
+Step 8 - create a fun page ( or add a page) on facebook 
+for toby bot 
+step 9 - generate access token 
+get access token to dialogflow 
+ - verify token hello world 
+and copy back that verify url
+step 10 - add Callback URl at facebook for develoeprs 
+paste verify token 
+at facebook console 
+
+
 
 
 
