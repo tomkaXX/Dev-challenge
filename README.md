@@ -48,6 +48,14 @@ Utterance
 - [Wit.ai Terms of Use](https://wit.ai/terms#3),
 - [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)
 
+
+step 1 - go  https://dialogflow.cloud.google.com/#/login
+step 2 - create new agent - create new project 
+step 3 - go to integrations
+step 4 - turn on facebook messenger 
+ - nice go to developers.facebook.com
+
+
 By using this repo, you accept Wit.ai Terms of Use:
 
 /**
