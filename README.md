@@ -1,6 +1,6 @@
 # 🤖 [AI Bots Academy](#)  
 ### Build your bot using NLP and integrate it with Messenger!
-### 🏆 Toby Bot - Winners of the AI HackZurich 2020 
+### 🏆 Toby Bot - Winners of the AI challenge at HackZurich 2020 
 ###### || Developers: Tamara Koliada || Developer Circles Lead from Kiev ||
 ###### ||Resources: [DF](#), [Messenger Docs](https://wit.ai/terms#3), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
