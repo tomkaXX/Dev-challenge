@@ -115,6 +115,11 @@ At Facebook developer console go to basic settings and add:
 - Finally add a platform > website > add your website URL and 
 - save changes ✅
 
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
+</div>
+
 > Step 14: App Review
 
 Go to app review > Click on request permissions and features 
