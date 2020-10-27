@@ -132,7 +132,8 @@ Please provide a detailed description of how your app uses the permission or fea
 ```
 
 
-Select yout page 
+Select your page
+ 
 ```Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
 ```
 
