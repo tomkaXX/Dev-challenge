@@ -64,7 +64,9 @@ Now go to https://developers.facebook.com
 > Step 6 👇🏼
 
 Create an app on FB console > chose manage bussiness integration > add display name 
-Add purpose > Select ypu bussiness manager account > And this will create your app id
+Add purpose > Select your **bussiness manager account** > And this will create your app id
+
+**[Business Verification Process] (https://developers.facebook.com/docs/apps/business-verification)**
 
 > Step 7: 👇🏼
 
@@ -201,6 +203,7 @@ Click > If approved I agree... and accept terms! ✅
 
 Resources: 
 -  [Community & Support](https://developers.facebook.com/docs/messenger-platform/useful-resources)
+-  [Business Verification](https://developers.facebook.com/docs/apps/business-verification)
 -  [Getting started with Messenger Platform](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/)
 -  [Sending Messages](https://developers.facebook.com/docs/messenger-platform/send-messages)
 -  [Submission Process](https://developers.facebook.com/docs/messenger-platform/submission-process)
