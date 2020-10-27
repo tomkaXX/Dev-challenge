@@ -1,11 +1,12 @@
 # 🤖 [AI Bots Academy](#)  
-### Build your bot using NLP and integrate it with Facebook  Messenger!
+### Build your bot using NLP and integrate it with Facebook Messenger
 ### 🏆 Toby Bot - Winners of the AI challenge at HackZurich 2020 
-###### || Developers: Tamara Koliada, Developer Circles Lead from Kiev and Marlen Gonzalez, AI Developer. ||
+###### ||Features and Services: Messaging, Quick Replies, Web Plug-In, Sending Attachments, Buttons, Webhook events, Analytics & more. ||
+###### ||Developers: Tamara Koliada, Developer Circles Lead from Kiev and Marlen G, AI Developer. ||
 ###### ||Resources: [DF](#), [Messenger Docs](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
 
-Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the AI Challenge at HackZurich 2020: https://devpost.com/software/toby-bot
+Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the AI Challenge at [HackZurich 2020](https://devpost.com/software/toby-bot).
 
 #### Let's start!
 
@@ -15,14 +16,14 @@ Go to [DF](https://dialogflow.cloud.google.com/#/login)
 
 > Step 2:
 
- 🤖 Create new agent and [import our project](https://github.com/tomkaX/tomkaX/blob/main/TobyBotSample.zip) 
+ 🤖 Create new agent and [import our project](https://github.com/tomkaX/tomkaX/blob/main/TobyBotSample.zip) 👇🏼
 
 <br>
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/2aHg9z5shHnulTX5eN/giphy.gif">
 </div>
 
-> Step 3:
+> Step 3: 👇🏼
 
 Go to DF integrations:
 
@@ -36,7 +37,7 @@ Go to DF integrations:
 
 Turn on the Facebook Messenger service 
 
-> Step 5:
+> Step 5: 👇🏼
 
 Now go to https://developers.facebook.com
 
@@ -45,12 +46,12 @@ Now go to https://developers.facebook.com
   <img width="800" height="400" src="https://media.giphy.com/media/putDpToOBrGEpAXMMZ/giphy.gif">
 </div>
 
-> Step 6
+> Step 6 👇🏼
 
 Create an app on FB console > chose manage bussiness integration > add display name 
 Add purpose > Select ypu bussiness manager account > And this will create your app id
 
-> Step 7: 
+> Step 7: 👇🏼
 
 Select the Messenger configuration (set up):
 
@@ -60,7 +61,7 @@ Select the Messenger configuration (set up):
 </div>
 
 
-> Step 8: 🤖
+> Step 8: 🤖 👇🏼
 
 Create or add a Fan page for Toby Bot 
 
@@ -69,7 +70,7 @@ Create or add a Fan page for Toby Bot
   <img width="800" height="400" src="https://media.giphy.com/media/1G28uDOVJRjlRVU3zZ/giphy.gif">
 </div>
 
-> Step 9
+> Step 9 👇🏼
 
 Generate access token > get this access token to dialogflow:  
 > Then create a verify token in DF ("helloworld" in our case),
@@ -94,7 +95,7 @@ In the FB Messenger set up, add the following subscriptions to the webhooks (mes
 ```
 And Click on Save it ✅
 
-> Step 12 
+> Step 12 👇🏼
 
 Try your bot inegration> Go to your fan page > And click on the Get started button 
 
@@ -104,7 +105,7 @@ Try your bot inegration> Go to your fan page > And click on the Get started butt
 </div>
 
 
-> Step 13
+> Step 13 👇🏼
 
 At Facebook developer console go to basic settings and add:
 - your app domain 
@@ -120,7 +121,7 @@ At Facebook developer console go to basic settings and add:
   <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
 </div>
 
-> Step 14: App Review
+> Step 14: App Review 👇🏼
 
 Go to app review > Click on request permissions and features 
 Now go to pages_messaging > Request advanced access 
