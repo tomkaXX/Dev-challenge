@@ -145,7 +145,7 @@ Click > If approved I agree... and accept terms! ✅
 🤖 Submit your for Bot for the App Review and to be Available for everyone. 
 
 
-+ Resources: 
+Resources: 
 -  [Getting started with Messenger Platform](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/)
 -  [Sending Messages](https://developers.facebook.com/docs/messenger-platform/send-messages)
 -  [Submission Process](https://developers.facebook.com/docs/messenger-platform/submission-process)
