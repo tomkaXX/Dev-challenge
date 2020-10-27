@@ -106,6 +106,11 @@ Try your bot integration> Go to your fan page > And click on the Get started but
 
 Add Messenger to your Website > Set Up Chat Plugin 👇🏼
 
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
+</div>
+
 <!-- Load Facebook SDK for JavaScript -->
       <div id="fb-root"></div>
       <script>
@@ -127,13 +132,8 @@ Add Messenger to your Website > Set Up Chat Plugin 👇🏼
       <!-- Your Chat Plugin code -->
       <div class="fb-customerchat"
         attribution=setup_tool
-        page_id="101701565079543">
+        page_id="YOUR_ID">
       </div>
-
-<br>
-<div align ="center">
-  <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
-</div>
 
 Try your Web Bot 👇🏼
 
