@@ -96,9 +96,9 @@ Generate access token > get this access token to dialogflow:
 
 > Step 10 
 
-Add the Callback URl from DF to Facebook for Developers console 
-> Also copy/paste the verify token created on DF to Facebook Console 
-> Click on verify and save ✅
+Add the Callback URL from DF to Facebook for Developers console 
+- Also copy/paste the verify token created on DF to Facebook Console 
+- Click on verify and save ✅
 
 > Step 11
 
@@ -159,6 +159,26 @@ Try your Web Bot 👇🏼
   <img width="800" height="400" src="https://media.giphy.com/media/4NtGK59Zz8Y0ly4vfI/giphy.gif">
 </div>
 
+- Message Template
+
+```
+{
+  "facebook": {
+    "attachment": {
+      "payload": {
+        "template_type": "generic",
+        "elements": [
+          {
+            "subtitle": "Welcome to Toby Bot",
+            "image_url": "https://imgage.com/wsimgs/ab/images/dp/recipe/201943/0059/img92l.jpg",
+            "title": "FB Messenger Tutorial",
+            "default_action": {
+              "webview_height_ratio": "tall",
+              "type": "web_url",
+              "url": "https://m.me/laboqueriadecr"
+            }
+          },
+```
 
 > Step 13 👇🏼
 
