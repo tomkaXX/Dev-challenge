@@ -159,7 +159,7 @@ Try your Web Bot 👇🏼
   <img width="800" height="400" src="https://media.giphy.com/media/4NtGK59Zz8Y0ly4vfI/giphy.gif">
 </div>
 
-- Message Template
+- Bot starts the convesation with the following [Message Template](https://developers.facebook.com/docs/messenger-platform/send-messages/templates):
 
 ```
 {
