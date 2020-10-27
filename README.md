@@ -66,7 +66,7 @@ Now go to https://developers.facebook.com
 Create an app on FB console > chose manage bussiness integration > add display name 
 Add purpose > Select your **bussiness manager account** > And this will create your app id
 
-**[Business Verification Process] (https://developers.facebook.com/docs/apps/business-verification)**
+**[Business Verification Process](https://developers.facebook.com/docs/apps/business-verification)**
 
 > Step 7: 👇🏼
 
