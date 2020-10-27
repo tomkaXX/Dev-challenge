@@ -20,9 +20,9 @@ How Toby Bot works? Testing Instructions 🤖
 
 4) Redeem your points instantly!
 
-How we built Toby Bot? 👇🏼
+#### 👇🏼 How we built Toby Bot? 
 
-#### Let's start!
+#### Let's start! 🏁
 
 > Step 1:
 
@@ -36,6 +36,7 @@ Go to [DF](https://dialogflow.cloud.google.com/#/login)
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/2aHg9z5shHnulTX5eN/giphy.gif">
 </div>
+
 
 > Step 3: 👇🏼
 
