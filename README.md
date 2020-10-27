@@ -6,7 +6,21 @@
 ###### ||Resources: [DF](#), [Messenger Docs](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
 
-Toby bot is virtual assistant integrated to FB Messenger, that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products, by scanning your shopping tickets! This project was selected Winner of the AI Challenge at [HackZurich 2020 (https://devpost.com/software/toby-bot).
+Toby bot is virtual assistant integrated to FB Messenger, that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products, by scanning your shopping tickets! This project was selected Winner of the AI Challenge at [HackZurich 2020] (https://devpost.com/software/toby-bot).
+
+In this tutorial we explain step-by-step the process of how to build a bot that rewards users for scanning their shopping tickets integrated with Facebook Messenger, and how to Publish your Messenger App through the App Review.
+
+How Toby Bot works? Testing Instructions 🤖
+
+1) As simple as starting the conversation on Messenger with Toby.
+
+2) Take a picture of your purchase.
+
+3) Get points!
+
+4) Redeem your points instantly!
+
+How we built Toby Bot? 👇🏼
 
 #### Let's start!
 
