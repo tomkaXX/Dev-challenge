@@ -6,7 +6,7 @@
 ###### ||Resources: [DF](#), [Messenger Docs](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
 
-Toby bot is virtual assistant that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products. This project was selected Winner of the AI Challenge at [HackZurich 2020](https://devpost.com/software/toby-bot).
+Toby bot is virtual assistant integrated to FB Messenger, that rewards through our AI Loyalty program, all your purchase of products such as: food, beverage and many others products, by scanning your shopping tickets! This project was selected Winner of the AI Challenge at [HackZurich 2020 (https://devpost.com/software/toby-bot).
 
 #### Let's start!
 
@@ -157,7 +157,7 @@ Click > If approved I agree... and accept terms! ✅
 
 > Step 16
 
-🤖 Submit your for Bot for the App Review and to be Available for everyone. 
+🤖 Click on Submit your Bot for App Review, and if approved,your Messenger App will be Available for everyone! ✅ 
 
 
 Resources: 
