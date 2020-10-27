@@ -134,7 +134,8 @@ Please provide a detailed description of how your app uses the permission or fea
 
 Select your page
  
-```Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
+```
+Provide a detailed step-by-step video walkthrough of how your app will use this permission or feature so we can confirm it is used correctly and does not violate our policies
 ```
 
 Click > If approved I agree... and accept terms! ✅ 
