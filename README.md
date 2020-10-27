@@ -1,7 +1,7 @@
 # 🤖 [AI Bots Academy](#) 🤓  
 ### Build your bot using NLP and integrate it with Facebook Messenger
 ### 🏆 Toby Bot - Winners of the AI challenge at HackZurich 2020 
-###### ||Features and Services: Messaging, Quick Replies, Web Plug-In, Sending Attachments, Buttons, Webhook events, Analytics & more. ||
+###### ||Features and Services: Messaging, Quick Replies, Web Chat Plugin, Sending Attachments, Buttons, Webhook events, Analytics & more. ||
 ###### ||Developers: Tamara Koliada, Developer Circles Lead from Kiev and Marlen G, AI Developer. ||
 ###### ||Resources: [DF](#), [Messenger Docs](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/), [FB Open Source code of conduct](https://engineering.fb.com/codeofconduct/)||
 ###### ||FB Community Challenge 2020 🌎 || 
@@ -97,11 +97,25 @@ And Click on Save it ✅
 
 > Step 12 👇🏼
 
-Try your bot inegration> Go to your fan page > And click on the Get started button 
+Try your bot integration> Go to your fan page > And click on the Get started button 
 
 <br>
 <div align ="center">
   <img width="800" height="400" src="https://media.giphy.com/media/DOA84CQhuVx5HSV4X9/giphy.gif">
+</div>
+
+Add Messenger to your Website > Set Up Chat Plugin 👇🏼
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
+</div>
+
+Try your Web Bot 👇🏼
+
+<br>
+<div align ="center">
+  <img width="800" height="400" src="https://media.giphy.com/media/4NtGK59Zz8Y0ly4vfI/giphy.gif">
 </div>
 
 
@@ -115,11 +129,6 @@ At Facebook developer console go to basic settings and add:
 - Chose an category > Messenger bot for a bussines 
 - Finally add a platform > website > add your website URL and 
 - save changes ✅
-
-<br>
-<div align ="center">
-  <img width="800" height="400" src="https://media.giphy.com/media/8fRMgJe9GYKwbbggHy/giphy.gif">
-</div>
 
 > Step 14: App Review 👇🏼
 
@@ -152,6 +161,7 @@ Click > If approved I agree... and accept terms! ✅
 
 
 Resources: 
+-  [Community & Support](https://developers.facebook.com/docs/messenger-platform/useful-resources)
 -  [Getting started with Messenger Platform](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/)
 -  [Sending Messages](https://developers.facebook.com/docs/messenger-platform/send-messages)
 -  [Submission Process](https://developers.facebook.com/docs/messenger-platform/submission-process)
